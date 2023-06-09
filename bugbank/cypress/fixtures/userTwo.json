@@ -1,0 +1,6 @@
+    {
+        "email": "user2@mail.com",
+        "name": "User Two",
+        "password": "123456",
+        "passwordConf": "123456"
+    }
